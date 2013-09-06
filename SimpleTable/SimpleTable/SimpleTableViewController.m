@@ -80,7 +80,7 @@
     
     UIAlertView * messageAlert = [[UIAlertView alloc]
                                   
-                                  initWithTitle:@"行选择"
+                                  initWithTitle:@"已选择"
                                   message:msg
                                   delegate:nil
                                   cancelButtonTitle:@"确定"
